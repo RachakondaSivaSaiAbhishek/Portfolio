@@ -1091,7 +1091,7 @@ header .row {
 }
 header .top-bar {
 	/* display:; */
-	background: #000000;
+	background: #00000000;
 	min-width: 220px;
 	min-height: 66px;
 	position: relative;
@@ -1108,19 +1108,19 @@ header .logo {
 }
 header .logo a {
 	display: block;
-	margin:0px 0px 0px 10px;
+	margin:0px 0px 0px 5px;
 	margin-bottom:20px;
 	border: none;
-	text-shadow:2px 2px 2px #0bbc29;
+	text-shadow:#0bbc29;
 	color: white;
 	/* width: 100%; */
 	height: 100%;
     position:relative;
-    font-family:'Comic Sans MS';
+    font-family:'poppins-medium,Sans-sariff';
 	/* background-size: 113px 30px; */
 }
 header{
-	background-color: black;
+	background-color: #00000070;
 	width: 220px;
 	height:66px;
 	display: inline;
@@ -1232,7 +1232,7 @@ header{
 
 /* dropdown nav */
 .main-navigation {
-	background: #000000;
+	background: #00000070;
 	padding: 24px 30px 42px;
 	margin: 0;
 	width: 100%;
@@ -1935,7 +1935,7 @@ header{
 .popup-modal .link-box {
 	width: 100%;
 	overflow: hidden;
-	background: #000000;
+	background: #00000000;
 }
 .popup-modal .link-box a {
 	font-family: "poppins-bold", sans-serif;
